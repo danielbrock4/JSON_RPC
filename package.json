@@ -19,6 +19,7 @@
     "crypto-js": "^4.1.1",
     "dotenv": "^16.0.1",
     "elliptic": "^6.5.4",
+    "ganache-cli": "^6.12.2",
     "ganache-core": "^2.13.2",
     "keccak": "^3.0.2",
     "node-fetch": "^3.2.4",
